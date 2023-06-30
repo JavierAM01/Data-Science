@@ -7,6 +7,10 @@ Al final del repositorio se puede encontrar algunas ejemplos sencillos para come
 ## Enlaces a Repositorios Relacionados
 
 
+| Preview | About |
+|---------|-------|
+| <p align="center">[<img width="3000" height="250" src="https://github.com/JavierAM01/Diagrama-de-Voronoi-y-Clustering/blob/main/images/p1_2.png">](https://github.com/JavierAM01/Diagrama-de-Voronoi-y-Clustering)</p> | **Diagrama de Voronoi y Clustering:** Clustering y diagramas de Voronoi son herramientas fundamentales en el análisis y visualización de datos. El clustering agrupa conjuntos de datos similares en clusters homogéneos, mientras que los diagramas de Voronoi dividen el espacio en regiones basadas en la proximidad a puntos de referencia. La combinación de estas técnicas permite identificar patrones, segmentar datos y visualizar la distribución de manera efectiva, facilitando el análisis de conjuntos de datos complejos. <br> <p align="center"><a href="https://github.com/JavierAM01/Diagrama-de-Voronoi-y-Clustering">Ver detalles</a></p> |
+
 
 ## Ejemplos sencillos sobre Redes Neuronales <a name=id1></a>
 
