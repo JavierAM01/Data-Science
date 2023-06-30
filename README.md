@@ -8,7 +8,7 @@ Al final del repositorio se puede encontrar algunas ejemplos sencillos para come
 
 
 
-## Introducción a Modelos de Redes Neuronales y Aprendizaje Automático <a name=id1></a>
+## Ejemplos sencillos sobre Redes Neuronales <a name=id1></a>
 
 
 | Preview | About |
